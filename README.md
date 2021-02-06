@@ -7,7 +7,7 @@ This is made for experimental purposes.
 I will not be responsible for any damages done.
 This program is free to use and contains no virus.
 
-How to use - 
+How to use - https://youtu.be/kulduFk1N0o?t=22
 
 Or
 1. Open Masked_YT_Video_Downloader.exe
